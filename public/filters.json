@@ -1,0 +1,20 @@
+{
+  "companies": [
+    {
+      "value": "Anglo - Eastern",
+      "label": "Anglo - Eastern"
+    },
+    {
+      "value": "Other Company",
+      "label": "Other Company"
+    },
+    {
+      "value": "Company Three",
+      "label": "Company Three"
+    },
+    {
+      "value": "Company Four",
+      "label": "Company Four"
+    }
+  ]
+}

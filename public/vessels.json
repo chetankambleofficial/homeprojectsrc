@@ -1,0 +1,54 @@
+{
+  "vessels": [
+    {
+      "sno": "01",
+      "vesselName": "Valencia Express",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "02",
+      "vesselName": "Cmacgm Saint Germain",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "03",
+      "vesselName": "Valencia Express",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "04",
+      "vesselName": "CSCL East Chine Sea",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "05",
+      "vesselName": "Valencia Express",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "06",
+      "vesselName": "CSCL East Chine Sea",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "07",
+      "vesselName": "Start of the vessel Seas",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "08",
+      "vesselName": "Cmacgm Saint Germain",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "09",
+      "vesselName": "CSCL East Chine Sea",
+      "imoNumber": "1773833"
+    },
+    {
+      "sno": "10",
+      "vesselName": "Start of the vessel Seas",
+      "imoNumber": "1944389"
+    }
+  ]
+}
